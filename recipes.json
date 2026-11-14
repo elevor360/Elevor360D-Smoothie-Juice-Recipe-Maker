@@ -1,0 +1,1754 @@
+[
+  {
+    "id": 1,
+    "title": "Strawberry Banana Smoothie",
+    "category": "Fruit Smoothies",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "1",
+        "item": "banana"
+      },
+      {
+        "qty": "120g",
+        "item": "strawberries"
+      },
+      {
+        "qty": "150ml",
+        "item": "milk"
+      },
+      {
+        "qty": "80g",
+        "item": "plain yoghurt"
+      }
+    ],
+    "steps": [
+      "Hull strawberries and peel banana.",
+      "Blend fruit with milk and yoghurt until creamy.",
+      "Serve chilled."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "fruit smoothies",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Mango Pineapple Smoothie",
+    "category": "Fruit Smoothies",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "150g",
+        "item": "mango"
+      },
+      {
+        "qty": "100g",
+        "item": "pineapple"
+      },
+      {
+        "qty": "150ml",
+        "item": "coconut water"
+      },
+      {
+        "qty": "1",
+        "item": "tsp lime juice"
+      }
+    ],
+    "steps": [
+      "Peel and cube mango and pineapple.",
+      "Blend with coconut water and lime until smooth.",
+      "Add a splash of water if needed."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "fruit smoothies",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Blueberry Oat Smoothie",
+    "category": "Fruit Smoothies",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "100g",
+        "item": "blueberries"
+      },
+      {
+        "qty": "1",
+        "item": "banana"
+      },
+      {
+        "qty": "20g",
+        "item": "rolled oats"
+      },
+      {
+        "qty": "180ml",
+        "item": "milk"
+      }
+    ],
+    "steps": [
+      "Add oats and milk to blender and rest 5 minutes.",
+      "Add blueberries and banana then blend thoroughly.",
+      "Serve promptly."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "fruit smoothies",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Raspberry Peach Smoothie",
+    "category": "Fruit Smoothies",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "100g",
+        "item": "raspberries"
+      },
+      {
+        "qty": "1",
+        "item": "ripe peach"
+      },
+      {
+        "qty": "150ml",
+        "item": "apple juice"
+      },
+      {
+        "qty": "70g",
+        "item": "yoghurt"
+      }
+    ],
+    "steps": [
+      "Remove peach stone and slice flesh.",
+      "Blend peach raspberries juice and yoghurt.",
+      "Strain seeds only if preferred."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "fruit smoothies",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Apple Cinnamon Smoothie",
+    "category": "Fruit Smoothies",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "1",
+        "item": "apple"
+      },
+      {
+        "qty": "1",
+        "item": "banana"
+      },
+      {
+        "qty": "180ml",
+        "item": "milk"
+      },
+      {
+        "qty": "1/4",
+        "item": "tsp cinnamon"
+      }
+    ],
+    "steps": [
+      "Core and chop apple leaving skin on if desired.",
+      "Blend with banana milk and cinnamon until smooth.",
+      "Serve immediately."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "fruit smoothies",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Blackberry Pear Smoothie",
+    "category": "Fruit Smoothies",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "100g",
+        "item": "blackberries"
+      },
+      {
+        "qty": "1",
+        "item": "ripe pear"
+      },
+      {
+        "qty": "150ml",
+        "item": "milk"
+      },
+      {
+        "qty": "60g",
+        "item": "yoghurt"
+      }
+    ],
+    "steps": [
+      "Core and chop pear and rinse blackberries.",
+      "Blend all ingredients until smooth.",
+      "Strain blackberry seeds if preferred."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "fruit smoothies",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Kiwi Banana Smoothie",
+    "category": "Fruit Smoothies",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "2",
+        "item": "kiwis"
+      },
+      {
+        "qty": "1",
+        "item": "banana"
+      },
+      {
+        "qty": "150ml",
+        "item": "orange juice"
+      }
+    ],
+    "steps": [
+      "Peel kiwis and banana.",
+      "Blend with orange juice until smooth.",
+      "Drink promptly for fresh flavour."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "fruit smoothies",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Cherry Vanilla Smoothie",
+    "category": "Fruit Smoothies",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "140g",
+        "item": "pitted cherries"
+      },
+      {
+        "qty": "1",
+        "item": "banana"
+      },
+      {
+        "qty": "160ml",
+        "item": "milk"
+      },
+      {
+        "qty": "1/4",
+        "item": "tsp vanilla extract"
+      }
+    ],
+    "steps": [
+      "Check every cherry is fully pitted.",
+      "Blend cherries banana milk and vanilla.",
+      "Serve chilled."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "fruit smoothies",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Melon Mint Smoothie",
+    "category": "Fruit Smoothies",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "200g",
+        "item": "honeydew melon"
+      },
+      {
+        "qty": "100g",
+        "item": "cucumber"
+      },
+      {
+        "qty": "8",
+        "item": "mint leaves"
+      },
+      {
+        "qty": "100ml",
+        "item": "water"
+      }
+    ],
+    "steps": [
+      "Remove melon rind and seeds.",
+      "Blend melon cucumber mint and water until smooth.",
+      "Chill before serving."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "fruit smoothies",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Plum Berry Smoothie",
+    "category": "Fruit Smoothies",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "2",
+        "item": "ripe plums"
+      },
+      {
+        "qty": "100g",
+        "item": "strawberries"
+      },
+      {
+        "qty": "150ml",
+        "item": "milk"
+      },
+      {
+        "qty": "60g",
+        "item": "yoghurt"
+      }
+    ],
+    "steps": [
+      "Remove plum stones and strawberry hulls.",
+      "Blend fruit with milk and yoghurt.",
+      "Taste and serve cold."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "fruit smoothies",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Spinach Mango Smoothie",
+    "category": "Green Smoothies",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "1",
+        "item": "handful baby spinach"
+      },
+      {
+        "qty": "150g",
+        "item": "mango"
+      },
+      {
+        "qty": "1",
+        "item": "banana"
+      },
+      {
+        "qty": "180ml",
+        "item": "water"
+      }
+    ],
+    "steps": [
+      "Wash spinach thoroughly and peel fruit.",
+      "Blend spinach and water first then add mango and banana.",
+      "Blend until no leaf pieces remain."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "green smoothies",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Kale Pineapple Smoothie",
+    "category": "Green Smoothies",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "1",
+        "item": "handful kale"
+      },
+      {
+        "qty": "150g",
+        "item": "pineapple"
+      },
+      {
+        "qty": "1",
+        "item": "banana"
+      },
+      {
+        "qty": "180ml",
+        "item": "coconut water"
+      }
+    ],
+    "steps": [
+      "Remove tough kale stems and wash leaves.",
+      "Blend kale with coconut water first.",
+      "Add pineapple and banana and blend smooth."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "green smoothies",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Cucumber Apple Green Smoothie",
+    "category": "Green Smoothies",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "1/2",
+        "item": "cucumber"
+      },
+      {
+        "qty": "1",
+        "item": "green apple"
+      },
+      {
+        "qty": "1",
+        "item": "handful spinach"
+      },
+      {
+        "qty": "150ml",
+        "item": "water"
+      },
+      {
+        "qty": "1",
+        "item": "tbsp lemon juice"
+      }
+    ],
+    "steps": [
+      "Wash cucumber apple and spinach and core apple.",
+      "Blend greens and water then add apple and lemon.",
+      "Serve immediately."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "green smoothies",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Avocado Lime Smoothie",
+    "category": "Green Smoothies",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "1/2",
+        "item": "ripe avocado"
+      },
+      {
+        "qty": "1",
+        "item": "banana"
+      },
+      {
+        "qty": "200ml",
+        "item": "milk"
+      },
+      {
+        "qty": "1",
+        "item": "tbsp lime juice"
+      }
+    ],
+    "steps": [
+      "Scoop avocado flesh and peel banana.",
+      "Blend with milk and lime juice until silky.",
+      "Serve cold."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "green smoothies",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Pear Celery Smoothie",
+    "category": "Green Smoothies",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "1",
+        "item": "ripe pear"
+      },
+      {
+        "qty": "1",
+        "item": "celery stick"
+      },
+      {
+        "qty": "1",
+        "item": "handful spinach"
+      },
+      {
+        "qty": "170ml",
+        "item": "apple juice"
+      }
+    ],
+    "steps": [
+      "Wash celery and spinach and core pear.",
+      "Chop celery small and blend with juice first.",
+      "Add pear and spinach and blend smooth."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "green smoothies",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Tropical Green Smoothie",
+    "category": "Green Smoothies",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "100g",
+        "item": "pineapple"
+      },
+      {
+        "qty": "100g",
+        "item": "mango"
+      },
+      {
+        "qty": "1",
+        "item": "handful spinach"
+      },
+      {
+        "qty": "150ml",
+        "item": "coconut water"
+      }
+    ],
+    "steps": [
+      "Wash spinach and prepare fruit.",
+      "Blend spinach with coconut water then add fruit.",
+      "Blend until smooth."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "green smoothies",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Broccoli Banana Smoothie",
+    "category": "Green Smoothies",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "60g",
+        "item": "cooked chilled broccoli"
+      },
+      {
+        "qty": "1",
+        "item": "banana"
+      },
+      {
+        "qty": "150g",
+        "item": "yoghurt"
+      },
+      {
+        "qty": "100ml",
+        "item": "milk"
+      }
+    ],
+    "steps": [
+      "Use fully cooked broccoli cooled promptly and kept refrigerated.",
+      "Blend broccoli with banana yoghurt and milk until smooth.",
+      "Serve cold."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "green smoothies",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Ginger Green Smoothie",
+    "category": "Green Smoothies",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "1",
+        "item": "green apple"
+      },
+      {
+        "qty": "1",
+        "item": "handful spinach"
+      },
+      {
+        "qty": "1cm",
+        "item": "fresh ginger"
+      },
+      {
+        "qty": "180ml",
+        "item": "water"
+      },
+      {
+        "qty": "1",
+        "item": "tsp lemon juice"
+      }
+    ],
+    "steps": [
+      "Core apple and peel ginger.",
+      "Blend spinach ginger and water first.",
+      "Add apple and lemon then blend thoroughly."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "green smoothies",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Classic Orange Juice",
+    "category": "Fresh Juices",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "4",
+        "item": "oranges"
+      }
+    ],
+    "steps": [
+      "Wash oranges and cut in half.",
+      "Squeeze with a citrus juicer removing pips.",
+      "Serve straight away."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "fresh juices",
+      "juice"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Apple Carrot Juice",
+    "category": "Fresh Juices",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "2",
+        "item": "apples"
+      },
+      {
+        "qty": "3",
+        "item": "carrots"
+      },
+      {
+        "qty": "1/2",
+        "item": "lemon"
+      }
+    ],
+    "steps": [
+      "Wash apples and carrots and core apples.",
+      "Feed through a suitable juicer following its instructions.",
+      "Squeeze lemon into juice and stir."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "fresh juices",
+      "juice"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Beetroot Apple Juice",
+    "category": "Fresh Juices",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "1",
+        "item": "small raw beetroot"
+      },
+      {
+        "qty": "2",
+        "item": "apples"
+      },
+      {
+        "qty": "1",
+        "item": "carrot"
+      }
+    ],
+    "steps": [
+      "Scrub beetroot and carrot and wash apples.",
+      "Cut into pieces suitable for your juicer and juice.",
+      "Stir and serve promptly."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "fresh juices",
+      "juice"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Pineapple Cucumber Juice",
+    "category": "Fresh Juices",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "250g",
+        "item": "pineapple"
+      },
+      {
+        "qty": "1/2",
+        "item": "cucumber"
+      },
+      {
+        "qty": "1/2",
+        "item": "lime"
+      }
+    ],
+    "steps": [
+      "Remove pineapple rind and core.",
+      "Juice pineapple and cucumber in a juicer.",
+      "Squeeze lime into juice and serve."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "fresh juices",
+      "juice"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Watermelon Lime Juice",
+    "category": "Fresh Juices",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "350g",
+        "item": "seedless watermelon"
+      },
+      {
+        "qty": "1",
+        "item": "lime"
+      }
+    ],
+    "steps": [
+      "Remove watermelon rind and any visible seeds.",
+      "Blend watermelon flesh until liquid and strain if desired.",
+      "Add freshly squeezed lime juice."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "fresh juices",
+      "juice"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Grapefruit Orange Juice",
+    "category": "Fresh Juices",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "1",
+        "item": "grapefruit"
+      },
+      {
+        "qty": "2",
+        "item": "oranges"
+      }
+    ],
+    "steps": [
+      "Wash and halve citrus fruit.",
+      "Squeeze juice and remove pips.",
+      "Stir and serve chilled."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "fresh juices",
+      "juice"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Carrot Ginger Juice",
+    "category": "Fresh Juices",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "4",
+        "item": "carrots"
+      },
+      {
+        "qty": "1cm",
+        "item": "fresh ginger"
+      },
+      {
+        "qty": "1",
+        "item": "apple"
+      }
+    ],
+    "steps": [
+      "Wash carrots apple and ginger and core apple.",
+      "Juice all ingredients according to juicer instructions.",
+      "Stir well before serving."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "fresh juices",
+      "juice"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Pear Apple Juice",
+    "category": "Fresh Juices",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "2",
+        "item": "ripe pears"
+      },
+      {
+        "qty": "2",
+        "item": "apples"
+      },
+      {
+        "qty": "1/2",
+        "item": "lemon"
+      }
+    ],
+    "steps": [
+      "Wash fruit and remove cores.",
+      "Process pear and apple pieces in a juicer.",
+      "Add lemon juice and drink promptly."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "fresh juices",
+      "juice"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Celery Cucumber Juice",
+    "category": "Fresh Juices",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "3",
+        "item": "celery stalks"
+      },
+      {
+        "qty": "1",
+        "item": "cucumber"
+      },
+      {
+        "qty": "1",
+        "item": "green apple"
+      }
+    ],
+    "steps": [
+      "Wash celery cucumber and apple thoroughly.",
+      "Core apple and cut ingredients to fit juicer.",
+      "Juice and serve chilled."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "fresh juices",
+      "juice"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Tomato Vegetable Juice",
+    "category": "Fresh Juices",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "3",
+        "item": "ripe tomatoes"
+      },
+      {
+        "qty": "1",
+        "item": "celery stalk"
+      },
+      {
+        "qty": "1/2",
+        "item": "cucumber"
+      },
+      {
+        "qty": "1",
+        "item": "tsp lemon juice"
+      }
+    ],
+    "steps": [
+      "Wash vegetables and remove tomato stalks.",
+      "Juice tomatoes celery and cucumber in a suitable juicer.",
+      "Stir in lemon and serve immediately."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "fresh juices",
+      "juice"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Strawberry Milkshake",
+    "category": "Milkshakes",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "150g",
+        "item": "strawberries"
+      },
+      {
+        "qty": "200ml",
+        "item": "milk"
+      },
+      {
+        "qty": "2",
+        "item": "scoops vanilla ice cream"
+      }
+    ],
+    "steps": [
+      "Hull and wash strawberries.",
+      "Blend with milk and ice cream until thick.",
+      "Serve immediately."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "milkshakes",
+      "drink"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Chocolate Banana Milkshake",
+    "category": "Milkshakes",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "1",
+        "item": "banana"
+      },
+      {
+        "qty": "220ml",
+        "item": "milk"
+      },
+      {
+        "qty": "1",
+        "item": "tbsp cocoa powder"
+      },
+      {
+        "qty": "1",
+        "item": "scoop vanilla ice cream"
+      }
+    ],
+    "steps": [
+      "Peel banana and add to blender with milk and cocoa.",
+      "Blend then add ice cream and pulse briefly.",
+      "Pour into glass."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "milkshakes",
+      "drink"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Vanilla Milkshake",
+    "category": "Milkshakes",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "220ml",
+        "item": "milk"
+      },
+      {
+        "qty": "2",
+        "item": "scoops vanilla ice cream"
+      },
+      {
+        "qty": "1/4",
+        "item": "tsp vanilla extract"
+      }
+    ],
+    "steps": [
+      "Add milk vanilla extract and ice cream to blender.",
+      "Blend briefly until frothy.",
+      "Serve immediately."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "milkshakes",
+      "drink"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Mango Lassi",
+    "category": "Milkshakes",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "160g",
+        "item": "ripe mango"
+      },
+      {
+        "qty": "180g",
+        "item": "plain yoghurt"
+      },
+      {
+        "qty": "80ml",
+        "item": "milk"
+      },
+      {
+        "qty": "1",
+        "item": "pinch ground cardamom"
+      }
+    ],
+    "steps": [
+      "Peel and dice mango.",
+      "Blend with yoghurt milk and cardamom until smooth.",
+      "Serve cold."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "milkshakes",
+      "drink"
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Peanut Butter Banana Shake",
+    "category": "Milkshakes",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "1",
+        "item": "banana"
+      },
+      {
+        "qty": "1",
+        "item": "tbsp peanut butter"
+      },
+      {
+        "qty": "220ml",
+        "item": "milk"
+      },
+      {
+        "qty": "1",
+        "item": "tsp honey"
+      }
+    ],
+    "steps": [
+      "Peel banana and add all ingredients to blender.",
+      "Blend until peanut butter is evenly dispersed.",
+      "Serve immediately and check peanut allergy."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "milkshakes",
+      "drink"
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Coffee Banana Shake",
+    "category": "Milkshakes",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "1",
+        "item": "banana"
+      },
+      {
+        "qty": "150ml",
+        "item": "milk"
+      },
+      {
+        "qty": "60ml",
+        "item": "brewed coffee chilled"
+      },
+      {
+        "qty": "1",
+        "item": "scoop vanilla ice cream"
+      }
+    ],
+    "steps": [
+      "Brew coffee and chill fully before use.",
+      "Blend banana milk coffee and ice cream.",
+      "Serve cold."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "milkshakes",
+      "drink"
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Oat Milk Berry Shake",
+    "category": "Milkshakes",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "120g",
+        "item": "mixed berries"
+      },
+      {
+        "qty": "200ml",
+        "item": "oat milk"
+      },
+      {
+        "qty": "1",
+        "item": "banana"
+      },
+      {
+        "qty": "1",
+        "item": "tsp maple syrup"
+      }
+    ],
+    "steps": [
+      "Wash berries and peel banana.",
+      "Blend with oat milk and maple syrup.",
+      "Serve chilled."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "milkshakes",
+      "drink"
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Coconut Date Shake",
+    "category": "Milkshakes",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "3",
+        "item": "pitted dates"
+      },
+      {
+        "qty": "200ml",
+        "item": "coconut milk drink"
+      },
+      {
+        "qty": "1",
+        "item": "banana"
+      },
+      {
+        "qty": "1",
+        "item": "pinch cinnamon"
+      }
+    ],
+    "steps": [
+      "Check dates are pitted and soak in warm water 10 minutes if firm.",
+      "Drain dates and blend with coconut milk banana and cinnamon.",
+      "Serve cold."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "milkshakes",
+      "drink"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Strawberry Coconut Smoothie Bowl",
+    "category": "Smoothie Bowls",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "180g",
+        "item": "frozen strawberries"
+      },
+      {
+        "qty": "1",
+        "item": "banana"
+      },
+      {
+        "qty": "80g",
+        "item": "thick yoghurt"
+      },
+      {
+        "qty": "1",
+        "item": "tbsp desiccated coconut"
+      }
+    ],
+    "steps": [
+      "Blend frozen strawberries banana and yoghurt with minimal liquid.",
+      "Spoon thick mixture into bowl.",
+      "Sprinkle coconut on top and eat with spoon."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "smoothie bowls",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Mango Smoothie Bowl",
+    "category": "Smoothie Bowls",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "180g",
+        "item": "frozen mango"
+      },
+      {
+        "qty": "1",
+        "item": "banana"
+      },
+      {
+        "qty": "80g",
+        "item": "yoghurt"
+      },
+      {
+        "qty": "1",
+        "item": "tbsp pumpkin seeds"
+      }
+    ],
+    "steps": [
+      "Blend frozen mango banana and yoghurt until thick.",
+      "Spoon into bowl.",
+      "Top with pumpkin seeds."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "smoothie bowls",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Blueberry Breakfast Bowl",
+    "category": "Smoothie Bowls",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "150g",
+        "item": "frozen blueberries"
+      },
+      {
+        "qty": "1",
+        "item": "banana"
+      },
+      {
+        "qty": "100g",
+        "item": "yoghurt"
+      },
+      {
+        "qty": "20g",
+        "item": "rolled oats"
+      }
+    ],
+    "steps": [
+      "Blend blueberries banana and yoghurt until thick.",
+      "Spoon into bowl.",
+      "Sprinkle rolled oats on top and eat promptly."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "smoothie bowls",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Chocolate Banana Bowl",
+    "category": "Smoothie Bowls",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "2",
+        "item": "frozen bananas"
+      },
+      {
+        "qty": "1",
+        "item": "tbsp cocoa powder"
+      },
+      {
+        "qty": "80ml",
+        "item": "milk"
+      },
+      {
+        "qty": "1",
+        "item": "tbsp chopped walnuts"
+      }
+    ],
+    "steps": [
+      "Blend sliced frozen bananas cocoa and just enough milk to turn blades.",
+      "Spoon into bowl.",
+      "Top with walnuts and serve immediately."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "smoothie bowls",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Peach Raspberry Bowl",
+    "category": "Smoothie Bowls",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "150g",
+        "item": "frozen peach slices"
+      },
+      {
+        "qty": "100g",
+        "item": "raspberries"
+      },
+      {
+        "qty": "100g",
+        "item": "yoghurt"
+      },
+      {
+        "qty": "1",
+        "item": "tbsp sunflower seeds"
+      }
+    ],
+    "steps": [
+      "Blend frozen peaches raspberries and yoghurt until thick.",
+      "Transfer to bowl.",
+      "Scatter sunflower seeds over top."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "smoothie bowls",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Pineapple Coconut Bowl",
+    "category": "Smoothie Bowls",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "180g",
+        "item": "frozen pineapple"
+      },
+      {
+        "qty": "1",
+        "item": "banana"
+      },
+      {
+        "qty": "100ml",
+        "item": "coconut milk"
+      },
+      {
+        "qty": "1",
+        "item": "tbsp toasted coconut"
+      }
+    ],
+    "steps": [
+      "Blend frozen pineapple banana and coconut milk to a thick consistency.",
+      "Spoon into bowl.",
+      "Top with toasted coconut."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "smoothie bowls",
+      "smoothie"
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Citrus Mint Cooler",
+    "category": "Refreshers",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "1",
+        "item": "orange"
+      },
+      {
+        "qty": "1",
+        "item": "lime"
+      },
+      {
+        "qty": "8",
+        "item": "mint leaves"
+      },
+      {
+        "qty": "200ml",
+        "item": "cold water"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Squeeze orange and lime into a jug and remove pips.",
+      "Add mint and cold water and muddle gently.",
+      "Pour over ice."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "refreshers",
+      "drink"
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Cucumber Lemon Refresher",
+    "category": "Refreshers",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "1/2",
+        "item": "cucumber"
+      },
+      {
+        "qty": "1",
+        "item": "lemon"
+      },
+      {
+        "qty": "250ml",
+        "item": "cold water"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Blend chopped cucumber with water and strain if desired.",
+      "Stir in freshly squeezed lemon juice.",
+      "Serve over ice."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "refreshers",
+      "drink"
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Strawberry Basil Cooler",
+    "category": "Refreshers",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "100g",
+        "item": "strawberries"
+      },
+      {
+        "qty": "4",
+        "item": "basil leaves"
+      },
+      {
+        "qty": "200ml",
+        "item": "sparkling water"
+      },
+      {
+        "qty": "1",
+        "item": "tsp lemon juice"
+      }
+    ],
+    "steps": [
+      "Mash hulled strawberries with basil and lemon juice.",
+      "Strain into glass if preferred.",
+      "Top with sparkling water and ice."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "refreshers",
+      "drink"
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Peach Iced Tea",
+    "category": "Refreshers",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "1",
+        "item": "black tea bag"
+      },
+      {
+        "qty": "200ml",
+        "item": "boiling water"
+      },
+      {
+        "qty": "1",
+        "item": "ripe peach"
+      },
+      {
+        "qty": "1",
+        "item": "tsp honey"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Steep tea for 3–4 minutes remove bag and chill fully.",
+      "Blend or mash peeled chopped peach with honey.",
+      "Mix into tea and serve over ice."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "refreshers",
+      "drink"
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Watermelon Mint Slush",
+    "category": "Refreshers",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "250g",
+        "item": "frozen watermelon cubes"
+      },
+      {
+        "qty": "8",
+        "item": "mint leaves"
+      },
+      {
+        "qty": "60ml",
+        "item": "cold water"
+      },
+      {
+        "qty": "1",
+        "item": "tsp lime juice"
+      }
+    ],
+    "steps": [
+      "Freeze seedless watermelon cubes until solid.",
+      "Blend with mint water and lime to a slushy texture.",
+      "Serve immediately."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "refreshers",
+      "drink"
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Pineapple Ginger Cooler",
+    "category": "Refreshers",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "150g",
+        "item": "pineapple"
+      },
+      {
+        "qty": "1cm",
+        "item": "fresh ginger"
+      },
+      {
+        "qty": "150ml",
+        "item": "cold water"
+      },
+      {
+        "qty": "1",
+        "item": "tbsp lime juice"
+      }
+    ],
+    "steps": [
+      "Peel ginger and pineapple.",
+      "Blend fruit ginger water and lime then strain if preferred.",
+      "Serve over ice."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "refreshers",
+      "drink"
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Berry Lemon Fizz",
+    "category": "Refreshers",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "100g",
+        "item": "mixed berries"
+      },
+      {
+        "qty": "1",
+        "item": "lemon"
+      },
+      {
+        "qty": "200ml",
+        "item": "sparkling water"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Mash berries and strain if desired.",
+      "Stir in freshly squeezed lemon juice.",
+      "Top with sparkling water and ice."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "refreshers",
+      "drink"
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Apple Cinnamon Cooler",
+    "category": "Refreshers",
+    "servings": 1,
+    "prep": 8,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "180ml",
+        "item": "cloudy apple juice"
+      },
+      {
+        "qty": "100ml",
+        "item": "cold water"
+      },
+      {
+        "qty": "1/4",
+        "item": "tsp cinnamon"
+      },
+      {
+        "qty": "1",
+        "item": "tsp lemon juice"
+      }
+    ],
+    "steps": [
+      "Whisk cinnamon into a splash of apple juice until dispersed.",
+      "Stir in remaining juice water and lemon.",
+      "Serve chilled and stir again before drinking."
+    ],
+    "notes": "Wash produce thoroughly. Use pasteurised dairy where applicable. Keep perishable ingredients refrigerated and drink freshly made blends promptly. Check allergens and follow juicer/blender instructions.",
+    "tags": [
+      "refreshers",
+      "drink"
+    ]
+  }
+]

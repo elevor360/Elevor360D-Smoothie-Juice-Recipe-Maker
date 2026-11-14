@@ -1,0 +1,18 @@
+{
+  "name": "Elevor360D Smoothie & Juice Recipe Maker",
+  "short_name": "Smoothie & Juice",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8f6ed",
+  "theme_color": "#205946",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "id": "./"
+}
